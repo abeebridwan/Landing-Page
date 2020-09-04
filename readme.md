@@ -8,8 +8,8 @@
   - visit it on your web browser
 
 ## Deployment
-  Take a look at the live version [**Click here**](#)  
-  resize to see its responsivenes
+  Take a look at the live version [**Click here**](https://olumide025.github.io/Landing-Page/)  
+  scroll and resize to see its responsivenes
 ## Screenshot
 mobile view
 
@@ -28,7 +28,7 @@ mobile view
 
 ## Usage and properties
   - view on any device
-  - very responsive
+  - responsive
 
 # Author
   Abeeb Ridwan Olumide
