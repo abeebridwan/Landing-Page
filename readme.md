@@ -8,10 +8,10 @@
   - visit it on your web browser
 
 ## Deployment
-  Take a look at the live version [here.....](#)  
-
+  Take a look at the live version [**Click here**](#)  
+  resize to see its responsivenes
 ## Screenshot
-mobile  view
+mobile view
 
   ![mobile view](images/mobileView.png)
 
@@ -28,7 +28,7 @@ mobile  view
 
 ## Usage and properties
   - view on any device
-  - very Responsive
+  - very responsive
 
 # Author
   Abeeb Ridwan Olumide
